@@ -1,9 +1,12 @@
 # Selenium_WeightWatchers
 In the src/main/java/driver DriverSetup java_class which let us to chose drivers Firefox or Google Chrome for Mac or Windows.
-In the src/main/java/pages HomePage.java and MeetingPage.java which contain methods for testing HomePage and MeetingPage
+
+In the src/main/java/pages HomePage.java and MeetingPage.java which contain methods for testing HomePage and MeetingPage.
+
 In the src/test/java/weightWatchers BaseTest class which contains methods suitable for every TestCase:
-- beforeMethod() method which  let us setup driver before execute every class
-- teardown() method which let us quit driver after execute every class. 
+- beforeMethod() method which  let us setup driver before execute every class;
+- teardown() method which let us quit driver after execute every class.
+
 In the src/test/resources/driver are executable Chrome Drivers and Gecko(Firefox) Drivers for Mac and Windows.
 
 Task:
