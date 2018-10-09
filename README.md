@@ -18,3 +18,5 @@ Task:
 6. Print the title of the first result and the distance (located on the right of location title/name)
 7. Click on the first search result and then, verify displayed location name matches with the name of the first searched result that was clicked.
 8. From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+
+Run from command line: mvn clean test 
